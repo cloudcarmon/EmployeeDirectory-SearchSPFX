@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.4",
+    "libraryName": "employee-directory",
+    "libraryId": "66390189-35e7-4545-bfa3-2ed905dafaac",
+    "environment": "spo"
+  }
+}
